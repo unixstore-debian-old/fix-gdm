@@ -13,11 +13,11 @@ Build-Depends: debhelper-compat (= 13)
 Package-List:
  fix-gdm deb gnome optional arch=all
 Checksums-Sha1:
- fa63e3a22b5c626f8cb81e44b546e3168780f73d 264 fix-gdm_1.0.0.orig.tar.xz
+ 3b5a90a0c402daf80837015dac4a048cc26d08a6 264 fix-gdm_1.0.0.orig.tar.xz
  bb81c45c77f300a46bda874c754f76df0007f1c6 836 fix-gdm_1.0.0-2.debian.tar.xz
 Checksums-Sha256:
- c1d74f11e9ebc2cbee27d8ac96ff1bfda2eec83b3b3cdc16dfa4f085091e32ce 264 fix-gdm_1.0.0.orig.tar.xz
+ b99185d50e708c0089997fce4fa144bc597d92def02aef2515498c05e29fdd17 264 fix-gdm_1.0.0.orig.tar.xz
  fd58cbbabca7f995e9220231917c85ebb6988e420d4d3c3b3866b9f8eafb0484 836 fix-gdm_1.0.0-2.debian.tar.xz
 Files:
- d706fdce8b2261ec7d00b995aef00e2d 264 fix-gdm_1.0.0.orig.tar.xz
+ 675583f6dde2686aab2e0197cf6325df 264 fix-gdm_1.0.0.orig.tar.xz
  bca4c41e26c37a8c0114f5074e538001 836 fix-gdm_1.0.0-2.debian.tar.xz
